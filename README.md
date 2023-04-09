@@ -9,12 +9,12 @@
     <th>
       我的编程语言
     </th>
-    <td rowspan="4">
+    <td rowspan="4" align="center">
       <img src="https://stats.justsong.cn/api/juejin?lang=zh-CN&id=3978458127676542"/>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?&theme=dark&i=html,css,sass,js,ts,jquery"/>
     </td>
   </tr>
@@ -24,13 +24,10 @@
     </th>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?&theme=dark&i=vue,git,nodejs,mysql,webpack,vite"/>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Lntave&hide_title=true&icon_color=787A74&show_icons=true&locale=cn&include_all_commits=true&hide=issues&hide_border=true" alt="Anurag's GitHub stats"/>
